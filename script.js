@@ -78,3 +78,5 @@ function displayCatHeart() {
 
 // Display the cat.gif initially
 displayCat();
+// Display the cat.gif initially
+displayCat();
